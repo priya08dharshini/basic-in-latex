@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{basic in latex}
+\author{Priyadharshini S .}
+\date{May 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\subsection{how to make add,sub}
+
+$2+3=5$
+$3-2=1$
+
+\subsubsection{how to write math function}
+
+$\sqrt{5}$
+$\sin{3}$
+$\frac{4}{8}$
+
+\subsubsection{alpha numeric}
+
+$\epsilon$
+$\beta$
+$\upsilon$
+
+\section{math equation}
+
+\subsection{how to write summation}
+
+\begin{equation}
+    \sum_{n-1}^{0}x^2 sin 
+\end{equation}
+
+\subsection{how to write int}
+
+\begin{equation}
+    \int_{3}^{9} a+b(sin*cos)
+\end{equation}
+
+\subsection{how to write diff}
+       \[ \frac{\partial u}{\partial t}
+   = h^2 \left( \frac{\partial^2 u}{\partial x^2}
+      + \frac{\partial^2 u}{\partial y^2}
+      + \frac{\partial^2 u}{\partial z^2} \right) \]
+      
+
+\end{document}
